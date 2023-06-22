@@ -226,7 +226,7 @@ function sumAndPrint(arr) {
 }
 
 console.log("Завдання: 8  ==============================");
-console.log(sumAndPrint([1, 2, 3, 4, 5])); // Виведе
+console.log(sumAndPrint([0, 1, 2, 3, 4, 5])); // Виведе
 // 1
 // 2
 // 3
